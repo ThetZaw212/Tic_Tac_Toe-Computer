@@ -1,0 +1,11 @@
+C:\C# Project\CsharpTicTacToe-WindowsForms\bin\Debug\TicTacToe.exe.config
+C:\C# Project\CsharpTicTacToe-WindowsForms\bin\Debug\TicTacToe.exe
+C:\C# Project\CsharpTicTacToe-WindowsForms\bin\Debug\TicTacToe.pdb
+C:\C# Project\CsharpTicTacToe-WindowsForms\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\C# Project\CsharpTicTacToe-WindowsForms\obj\Debug\TicTacToe.MenuForm.resources
+C:\C# Project\CsharpTicTacToe-WindowsForms\obj\Debug\TicTacToe.TicTacToeComputer.resources
+C:\C# Project\CsharpTicTacToe-WindowsForms\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\C# Project\CsharpTicTacToe-WindowsForms\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\C# Project\CsharpTicTacToe-WindowsForms\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\C# Project\CsharpTicTacToe-WindowsForms\obj\Debug\TicTacToe.exe
+C:\C# Project\CsharpTicTacToe-WindowsForms\obj\Debug\TicTacToe.pdb
